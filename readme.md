@@ -3,9 +3,10 @@
 **Experienced Software Engineer** carve and maintaine scalable systems with ownership, empathy and "no second time mistake" policy 💎
 
 🚀 **What I do:**
-- Scale microservices & cloud infrastructure (K8s, AWS)
-- Build reliable backend systems so for fintech, e-commerce, mark-tech, subscription based system.
+- Build reliable backend systems so for fintech, e-commerce, mark-tech, subscriptions, IOT.
 - Optimize performance & system observability
+- Maintain and catalyze empathetic workplace culture
+- Budding AI development skills (Frontrunner to take all chances here!)
 
 🛠️ **Tech Stack:**  
 Ruby • Rails  • SQL • Relational Databases • Redis • Message Broker • Elasticsearch • GRPC • Observability • Monitoring
