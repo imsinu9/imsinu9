@@ -11,7 +11,7 @@
 🛠️ **Tech Stack:**  
 Ruby • Rails  • SQL • Relational Databases • Redis • Message Broker • Elasticsearch • GRPC • Observability • Monitoring
 
-📍 Bangalore, India | 🌏 Open to remote opportunities
+📍 Bangalore, India | 🌏 Open to relocate opportunities
 
 ---
 
