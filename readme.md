@@ -1,6 +1,6 @@
 ### Hi there, I'm Prateek 👋
 
-**Experienced Software Engineer** carve and maintaine scalable systems with ownership, empathy and "no second time mistake" policy 💎
+**Experienced Software Engineer** carve and maintain scalable systems with ownership, empathy and "no second time mistake" policy 💎
 
 🚀 **What I do:**
 - Build reliable backend systems so for fintech, e-commerce, mark-tech, subscriptions, IOT.
